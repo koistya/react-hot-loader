@@ -1,6 +1,7 @@
 ### Starter Kits
 
 * [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) (Bare minimum)
+* [react-starter-kit](https://github.com/react-starter-kit) (iromorphic web app boilerplate, Webpack, Babel, PostCSS, BrowserSync, HMR)
 * [react-starter](https://github.com/webpack/react-starter) (react-router, includes production configs)
 * [react-tape](https://github.com/fc-io/react-tape) (Babel, blue-tape, css-loader, html-webpack-plugin, production config)
 * [isomorphic-hot-loader](https://github.com/irvinebroque/isomorphic-hot-loader) (react-router, isomorphic)
